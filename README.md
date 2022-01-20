@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![mertcanarguc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mertcanarguc)](https://github.com/mertcanarguc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcanarguc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
