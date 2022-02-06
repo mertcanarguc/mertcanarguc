@@ -63,7 +63,6 @@ I also have server administration knowledge. I have worked with Centos, Debian a
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
   
-  
 
 </td></tr></table>  
 
