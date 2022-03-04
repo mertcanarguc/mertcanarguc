@@ -1,12 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="#">
-  <img align="left" alt="Mertcan Arguc discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/mertcan-arguç-12217b112/">
-  <img align="left" alt="Mertcan Arguc Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 <br />
+
+<b> Public Repository : 13 </b>  <br />
+<b> Private Repository : 53 </b>  <br />
 
 Hello, I'm Full Stack Developer. I'm 31 now and I've been writing code since I was 16. For many years, I made developments on Web Technologies. 
 
