@@ -2,8 +2,8 @@
 
 <br />
 
-<b> Public Repository : 13 </b>  <br />
-<b> Private Repository : 53 </b>  <br />
+<b> Public Repository : 15 </b>  <br />
+<b> Private Repository : 55 </b>  <br />
 
 Hello, I'm Full Stack Developer. I'm 31 now and I've been writing code since I was 16. For many years, I made developments on Web Technologies. 
 
