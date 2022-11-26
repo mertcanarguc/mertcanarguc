@@ -61,9 +61,3 @@ I also have server administration knowledge. I have worked with Centos, Debian a
 </div>
   </td>
   
-
-📈 my github stats
- <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcanarguc&langs_count=10&theme=tokyonight"> 
- </p> 
-
