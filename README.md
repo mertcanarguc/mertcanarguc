@@ -62,7 +62,13 @@ I also have server administration knowledge. I have worked with Centos, Debian a
   </td>
   
 
-
+📈 my github stats
+ <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcanarguc&langs_count=10&theme=tokyonight"> 
+ </p> 
+ <p align="center"> <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&showIcons=false">
+     <img  alt="mertcanarguc's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mertcanarguc?cardType=level-alternate&theme=tokyonight&showIcons=false" />
+   </a>
 
 
 
