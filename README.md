@@ -60,6 +60,7 @@ I also have server administration knowledge. I have worked with Centos, Debian a
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcanarguclayout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
