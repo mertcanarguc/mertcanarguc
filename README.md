@@ -5,13 +5,13 @@
 <b> Public Repository : 15 </b>  <br />
 <b> Private Repository : 55 </b>  <br />
 
-Hello, I'm Full Stack Developer. I'm 32 now and I've been writing code since I was 16. For many years, I made developments on Web Technologies ve bunlar genel olarak SAAS Projeleri.
+Hello, I'm FullStack Developer. I'm 32 now and I've been writing code since I was 16. For many years, I made improvements on Web Technologies and SAAS Projects in general.
 
 I have worked with Nodejs, C, C++, Javascript, TypeScript, PHP, Python and Go languages in backend technologies.
 
-I worked with frameworks such as Vue.js and React for frontend technologies.
+I have worked with frameworks such as Vue.js and React for frontend technologies.
 
-I also have server administration knowledge. I have worked with Centos, Debian and Ubuntu Server servers. I am a master of Nginx and I self-publish my developments. I provide the Performance and Security requirements myself.
+I also have server administration knowledge. I have worked with Centos, Debian and Ubuntu Server servers. I'm a Nginx master and post my developments myself. I provide the Performance and Security requirements myself.
 
 
 ## My Skill Set  
